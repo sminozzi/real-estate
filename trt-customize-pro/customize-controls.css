@@ -1,0 +1,22 @@
+/*
+#customize-controls .control-section-realestate .accordion-section-title:hover,
+#customize-controls .control-section-realestate .accordion-section-title:focus {
+	background-color: #fff;
+}
+*/
+
+/* .control-section-realestate, .accordion-section-title, .button-realestate { */
+.button-realestate {
+	margin-top:  -4px !important;
+/*	font-weight: 00;
+	margin-left: 8px;
+	*/
+	color: red !important;
+}
+
+/*
+	.rtl .control-section-realestate, .accordion-section-title, .button {
+		margin-left:  0;
+		margin-right: 8px;
+	}
+	*/

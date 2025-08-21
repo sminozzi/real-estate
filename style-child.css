@@ -1,0 +1,18 @@
+/*
+Theme Name: real- estate-right-now
+Theme URI: https://realestatetheme.eu/
+Author: Bill Minozzi
+Author URI: https://billminozzi.com/
+Description:Introducing Real Estate, a versatile and feature-rich theme designed to meet the needs of Real Estate Agencies, agents, and brokers. Powered by a dedicated Real Estate plugin, this theme empowers you to effortlessly create custom property fields, offering limitless possibilities for managing, searching, and filtering properties – all without the need for coding. Enjoy advanced property search functionality, a convenient price range slider, and a fully responsive design. The Real Estate theme also includes a Social menu, extensive color customization options, 3 footer widgets, and the flexibility to choose between Full or Boxed layouts. Additional features include a sticky header and a convenient 'Back to Top' button. With just one click, you can switch between Light and Dark skins to suit your preference. Plus, you'll have access to an online guide, comprehensive support, and a demo for a seamless Real Estate experience. Explore Real Estate Theme today! (Visit us at www.RealEstateTheme.eu)
+Version: 1.51
+Tested up to: 6.3
+Requires PHP: 5.6
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Tags: one-column, two-columns, right-sidebar, custom-background, custom-colors, custom-header, custom-logo, footer-widgets, custom-menu, editor-style, featured-images, flexible-header, microformats, post-formats, rtl-language-support, sticky-post, threaded-comments, translation-ready, blog, full-width-template, theme-options, e-commerce
+Text Domain: real-estate-right-now
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+@import url("../realestate/style.css");
