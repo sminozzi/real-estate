@@ -1,5 +1,7 @@
 # Real Estate Right Now Theme
 
+If you need a block theme, try our free Real Estate Blocks theme.
+
 Introducing **Real Estate Right Now**, classic WordPress Theme, a versatile and feature-rich theme designed to meet the needs of a wide range of professionals and investors in the property sector.
 
 **This theme is perfect for:**
