@@ -1,14 +1,45 @@
 === Real Estate Right Now ===
-Contributors: sminozzi
-Theme URI: https://realestatetheme.eu/
-Requires at least: WordPress 5.0
-Tested up to: WordPress 6.3
-Version: 1.53
-License: GNU General Public License v3.0
-License URI: http://www.gnu.org/licenses/gpl-3.0.html
-Tags: one-column, two-columns, right-sidebar, custom-background, custom-colors, custom-header, custom-logo, footer-widgets, custom-menu, editor-style, featured-images, flexible-header, microformats, post-formats, rtl-language-support, sticky-post, threaded-comments, translation-ready, blog, full-width-template, theme-options, e-commerce
+
 == Description ==
-Introducing Real Estate, a versatile and feature-rich theme designed to meet the needs of Real Estate Agencies, agents, Realtors, Estate Agents, Real Estate Salespersons, Real Estate Consultants, Property Brokers  and brokers. Individuals engaged in the field of Real Estate, including Property, Real Property, Realty, Real Assets, Real Estate Holdings, Real Property Assets, Land and Buildings, and Immovable Property, as well as those involved in Real Estate Investments, are welcome to use this theme. Label singular: Real Estate Agency, agent, Realtor, Estate Agent, Real Estate Salesperson, Real Estate Consultant, Property Broker, and broker. An individual engaged in the field of Real Estate, including Property, Real Property, Realty, Real Asset, Real Estate Holding, Real Property Asset, Land and Building, and Immovable Property, as well as those involved in Real Estate Investment. Powered by a dedicated Real Estate plugin, this theme empowers you to effortlessly create custom property fields, offering limitless possibilities for managing, searching, and filtering properties – all without the need for coding. Enjoy advanced property search functionality, a convenient price range slider, and a fully responsive design. The Real Estate theme also includes a Social menu, extensive color customization options, 3 footer widgets, and the flexibility to choose between Full or Boxed layouts. Additional features include a sticky header and a convenient 'Back to Top' button. With just one click, you can switch between Light and Dark skins to suit your preference. Plus, you'll have access to an online guide, comprehensive support, and a demo for a seamless Real Estate experience. Explore Real Estate Theme today! (Visit us at www.RealEstateTheme.eu)== Installation ==
+# Real Estate Right Now Theme
+
+Introducing **Real Estate Right Now**, classic WordPress Theme, a versatile and feature-rich theme designed to meet the needs of a wide range of professionals and investors in the property sector.
+
+**This theme is perfect for:**
+
+* **Real Estate Professionals:** Agencies, agents, Realtors, Estate Agents, Salespersons, Consultants, Property Brokers, and brokers.
+* **Property-Focused Individuals:** Anyone involved with Property, Realty, Real Assets, Land and Buildings, and Immovable Property.
+* **Investors:** Those involved in Real Estate Investments.
+
+---
+
+### Key Features
+
+**1. Codeless Property Management**
+* Powered by a dedicated **Real Estate plugin**, empowering you to create custom property fields with limitless possibilities for managing, searching, and filtering properties—all without writing a single line of code.
+* Enjoy **advanced property search** functionality and a convenient **price range slider**.
+
+**2. Design and Customization**
+* Fully **responsive design**.
+* Extensive **color customization** options.
+* Three footer widgets.
+* Choose between **Full** or **Boxed** layouts.
+* Switch between **Light** and **Dark** skins with just one click.
+
+**3. Additional Functionality**
+* Social menu.
+* Sticky header.
+* 'Back to Top' button.
+
+---
+
+### Support and Information
+
+* Get access to an **online guide**, **comprehensive support**, and a **demo** for a seamless experience.
+
+Explore the Real Estate Theme today! Visit our official website for more information: **[www.RealEstateTheme.eu](https://www.realestatetheme.eu)**
+
+== Installation ==
 1. In your admin panel, go to Appearance -> Themes and click the 'Add New' button.
 2. Type in real estate in the search form and press the 'Enter' key on your keyboard.
 3. Click on the 'Activate' button to use your new theme right away.
