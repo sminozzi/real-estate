@@ -1,6 +1,3 @@
-=== Real Estate Right Now ===
-
-== Description ==
 # Real Estate Right Now Theme
 
 Introducing **Real Estate Right Now**, classic WordPress Theme, a versatile and feature-rich theme designed to meet the needs of a wide range of professionals and investors in the property sector.
